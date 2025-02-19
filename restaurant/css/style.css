@@ -189,6 +189,17 @@ ol, ul {margin: 0; padding: 0; list-style: none;}
     text-transform: capitalize;
 }
 
+.page-job-listing .navbar-top-default .navbar-nav .nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    padding: 0 0 0;
+    margin-right: 1.1rem;
+    margin-left: 1.1rem;
+    text-transform: capitalize;
+}
+
 .header-appear .navbar-top-default .navbar-nav .nav-link {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
@@ -525,6 +536,10 @@ input, select, textarea {margin :0;}
     width: 30px;
     background: #fff;
     display: block;
+}
+
+#sidemenu_toggle .animated-element span {
+    background-color: black; /* Change the icon color to black */
 }
 
 .header-appear .sidemenu_btn span {
